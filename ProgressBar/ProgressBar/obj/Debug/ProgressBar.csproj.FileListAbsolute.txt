@@ -1,0 +1,10 @@
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojResolveAssemblyReference.cache
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.Cache
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+D:\PROGRAMLAR\VS17 Çalışmalar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
