@@ -1,0 +1,10 @@
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\bin\Debug\akrepaçı.exe.config
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\bin\Debug\akrepaçı.exe
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\bin\Debug\akrepaçı.pdb
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\obj\Debug\akrepaçı.csprojResolveAssemblyReference.cache
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\obj\Debug\akrepaçı.Form1.resources
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\obj\Debug\akrepaçı.Properties.Resources.resources
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\obj\Debug\akrepaçı.csproj.GenerateResource.Cache
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\obj\Debug\akrepaçı.csproj.CoreCompileInputs.cache
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\obj\Debug\akrepaçı.exe
+C:\Users\Bora\source\repos\akrepaçı\akrepaçı\obj\Debug\akrepaçı.pdb
